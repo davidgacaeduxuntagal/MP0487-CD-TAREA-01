@@ -11,7 +11,7 @@ public class ColorJPanel extends JPanel
    public void paintComponent(Graphics g)
    {
       super.paintComponent(g); 
-      this.setBackground(Color.WHITE);
+      this.setBackground(Color.PINK);
 
       // set new drawing color using integers
       g.setColor(new Color(255, 0, 0));
