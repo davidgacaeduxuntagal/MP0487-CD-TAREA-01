@@ -36,3 +36,6 @@ public class ColorJPanel extends JPanel
          color.getGreen() + ", " + color.getBlue(), 130, 115);
    } 
 } // end class ColorJPanel
+
+
+//Cmabios de Martín en el fork
