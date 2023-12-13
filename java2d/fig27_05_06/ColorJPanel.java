@@ -9,7 +9,7 @@ public class ColorJPanel extends JPanel
    // draw rectangles and Strings in different colors
    @Override
    public void paintComponent(Graphics g)
-   {
+   { // Estp es un comentario que acabo de añadir para hacer una pull request
       super.paintComponent(g); 
       this.setBackground(Color.WHITE);
 
