@@ -10,6 +10,7 @@ public class ColorJPanel extends JPanel
    @Override
    public void paintComponent(Graphics g)
    { // Estp es un comentario que acabo de añadir para hacer una pull request
+      //Esto es otro comentario porque el primero me dio error.
       super.paintComponent(g); 
       this.setBackground(Color.WHITE);
 
