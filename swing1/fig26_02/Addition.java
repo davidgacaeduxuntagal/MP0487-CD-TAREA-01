@@ -1,7 +1,7 @@
 // Fig. 26.2: Addition.java
 // Addition program that uses JOptionPane for input and output.
 import javax.swing.JOptionPane; 
-
+// Cambios del punto 8
 public class Addition 
 {
    public static void main(String[] args)
